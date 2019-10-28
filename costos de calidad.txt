@@ -1,4 +1,27 @@
 Costos de la calidad (Sosa Pulido)
 Es indispensable tener parámetros de medición para saber cómo se ha ido mejorando y que en qué no para trabajarlo. > Para ellos se utilizan los "indices de control">
 no siempre es muy eficiente calcular los costos de calidad, basta con llevar el registro de los principales indicadores, areas o institución en su conjunto. > ROTACION DE PERSONAL,
-AUSENTISMO DEL PERSONAL Y NÚMERO DE QUEJAS> por mencionar algunos 
+AUSENTISMO DEL PERSONAL Y NÚMERO DE QUEJAS> por mencionar algunos.
+>Todos estos indices en su conjunto representan los costos de calidad en que estamos incurriendo por no lograr que las cosas sucedan como se planearon.
+>James Harrington nos deja claro que lo que no es capaz de medirse no es capaz de mejorar
+>Hoy en día se vive con normalidad la inficiencia laboral, cuestiones cotidianas como esperar para entrar a una junta porque otra no termino a tiempo, envío de información errónea o impuestos no pagados a tiempo
+deben dejar de ser normalizados y deben ser mejorados para un proceso de calidad total.
+DISTRIBUCIÓN DE LOS COSTOS DE CALIDAD
+> Se dividen en tres grandes áreas: 
+>1.COSTOS DE CUMPLIMIENTO
+>Incluye los costos en que se incurre por tratar de lograr los niveles de desempeño planeados por la admon, que a su vez se subdividen en costos de prevención:
+>PLANEACIÓN DE LA CALIDAD, CURSOS DE ENTRENAMIENTO, CAPACITACIÓN. 
+>;Y  en costos de evaluación
+>INSPECCIÓN, MUESTREO Y PRUEBAS, ENCUENTAS, REVISIONES.
+>2. COSTOS DE NO CUMPLIMIENTO 
+>Costos que se incurre por no haber cumplido con el nivel de desempeño esperado y con los resultados planeados; se dividen en:
+>Costos de fallas internas: DESPERDICIOS EN GENERAL, TIEMPOS PERDIDOS, REPROCESOS DE TRABAJOS MAL HECHOS.
+>;Costos de fallas externas: RECLAMACIONES, DEVOLUCIONES, BONIFICACIONES
+>3.COSTOS INDIRECTOS
+>Se subdividen en dos grandes áreas: 
+>a)costos que se le generan a los clientes por fallas en los servicios:
+>tiempos perdidos en las plantas> decisiones equivocadas, cambio de planes de acción
+>b) costos no cuantificables para la institución. >costos derivados de fallas en el mercado y que no se pueden cuantificar pero se
+conoce su existencia.>MALA IMAGEN DE LA INSTITUCIÓN, PERDIDA DE CREDIBILIDAD, PERDIDIDA DE OPORTUNIDADES
+>Los costos de calidad tienen una importancia determinante para la superviviencia y el desarrollo de la institutición.
+
